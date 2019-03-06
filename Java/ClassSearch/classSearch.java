@@ -1,11 +1,12 @@
 /** Homework 1 - Polisano
- * GUI.java
+ * classSearch.java
  * 
  * JDK8
  * 
  * This code should work for 1 search query, and up to as many as all 3.  When
  * more than 1 is selected, all parameters are used and results meet all 
  * requirements.
+ * Done using Java Swing.
  */
 package hw1.polisano;
 
