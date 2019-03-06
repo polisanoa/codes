@@ -1,5 +1,5 @@
 /** Homework 1 - Polisano
- * classSearch.java
+ * GUI.java
  * 
  * JDK8
  * 
