@@ -7,19 +7,14 @@ Imports System.ComponentModel
 '-                Written By: Anthony Polisano              -
 '-                Written On: 2/3/2018                      -
 '------------------------------------------------------------
-'- File Purpose:                                            -
-'- This is the second form for the assignment. The          -
-'- Invoice form.  This form outputs an invoice using a      -
-'- multiline textbox.  It also has a ChangeOrder button to  -
-'- allow the user to return to the OrderForm, a Submit      -
-'- to finalize the transaction, and an exit button which has-
-'- the same functionality as the X button in the corner of  -
-'- the window.                                              -
-'- All of the operations such as calculating currency,      -
-'- reading the input from the user in the Order form, and   -
-'- loading the invoice with appropriate output is done here.-
-'------------------------------------------------------------
-
+'- This is the order form for the assignment. In this form, -
+'- the user is able to select what type of car they would   -
+'- like to order from an assortment of options.  Upon       -
+'- placing the order, the options will be shown in          -
+'- the Invoice form. One interesting note is that           -
+'- the user cannot close out of the program from this point -
+'- and needs to be in the scope of the invoice form to click-
+'- the X on the top-right of the screen and close the form. -
 '------------------------------------------------------------
 '- Global Variable Dictionary (alphabetically):             -
 '- CheckBoxes - an array of the structure CheckBoxInfo      -
