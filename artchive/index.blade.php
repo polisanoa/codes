@@ -1,3 +1,4 @@
+<!-- Nav bar displayed on every page -->
 @extends('layouts.app')
 
 @section('title', 'View Users')
